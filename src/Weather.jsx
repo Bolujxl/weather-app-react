@@ -43,7 +43,7 @@ function Weather() {
 
     return (
         <div className="main-weather">
-           <h2> Weather display using react</h2>
+           <h2> Weather display by Cities</h2>
 
            <form className="input-box">
             <input type="text" placeholder="Enter your city" value={city} onChange={(e) => setCity(e.target.value)}/>
