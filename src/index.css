@@ -9,7 +9,6 @@
 body {
   font-family: 'Outfit', sans-serif;
   min-height: 100vh;
-  /* Multi-layered "Mist & Cloud" effect */
   background: 
     radial-gradient(circle at 15% 15%, rgba(49, 72, 84, 0.04) 0%, transparent 40%),
     radial-gradient(circle at 85% 85%, rgba(100, 100, 140, 0.03) 0%, transparent 40%),
